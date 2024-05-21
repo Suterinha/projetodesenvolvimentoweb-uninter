@@ -1,0 +1,38 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+body {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px;
+}
+
+
+.cabecalho {text-align: center;
+            box-sizing:border-box;
+            width: auto;
+            padding: 10px;
+            }
+
+
+.p {font-size:18px;
+    text-align:left;
+    }
+
+
+.titulo {font-size:20px bold;
+        text-align:center;
+        background-color: rgb(199, 198, 198);
+        padding: 15px;}
+
+
+    ul, li
+    {list-style-type: none;
+    font-size: 20px;     
+    width: auto;
+    padding: 10px;
+    border: solid 2px white;
+    box-sizing: border-box;
+    text-align:center}
+
+        
